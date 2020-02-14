@@ -1,3 +1,2 @@
 # algorithm
-</hr>
-##algorithm for study
+algorithm for study
